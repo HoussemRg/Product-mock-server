@@ -1,0 +1,18 @@
+{
+  "content": [
+    {"id":11,"nom":"Entrepôt Nice Côte d'Azur","type":"REGIONAL","adresse":"ZI Les Moulins, 06200 Nice","coordonnees":{"latitude":43.6789,"longitude":7.2012},"capacite":24000,"actif":true},
+    {"id":12,"nom":"Plateforme Dijon Bourgogne","type":"SECONDAIRE","adresse":"Rue des Tanneurs, 21000 Dijon","coordonnees":{"latitude":47.3012,"longitude":5.0123},"capacite":15000,"actif":true},
+    {"id":13,"nom":"Entrepôt Tours Val de Loire","type":"REGIONAL","adresse":"Avenue du Lac, 37170 Chambray-lès-Tours","coordonnees":{"latitude":47.3456,"longitude":0.7123},"capacite":19000,"actif":true},
+    {"id":14,"nom":"Plateforme Orléans Centre","type":"SECONDAIRE","adresse":"ZI Les Champs, 45000 Orléans","coordonnees":{"latitude":47.9012,"longitude":1.8923},"capacite":16000,"actif":true},
+    {"id":15,"nom":"Entrepôt Reims Champagne","type":"REGIONAL","adresse":"Parc d'Activités, 51100 Reims","coordonnees":{"latitude":49.2678,"longitude":4.0123},"capacite":21000,"actif":true},
+    {"id":16,"nom":"Plateforme Annecy Savoie","type":"SECONDAIRE","adresse":"ZI de la Prairie, 74000 Annecy","coordonnees":{"latitude":45.9012,"longitude":6.1123},"capacite":17000,"actif":true},
+    {"id":17,"nom":"Entrepôt Grenoble Alpes","type":"REGIONAL","adresse":"Rue des Alpes, 38130 Grenoble","coordonnees":{"latitude":45.1789,"longitude":5.7123},"capacite":23000,"actif":true},
+    {"id":18,"nom":"Plateforme Le Havre Normandie","type":"REGIONAL","adresse":"Zone Portuaire, 76600 Le Havre","coordonnees":{"latitude":49.4812,"longitude":0.1123},"capacite":26000,"actif":true},
+    {"id":19,"nom":"Entrepôt Rouen Seine","type":"SECONDAIRE","adresse":"ZI Les Docks, 76000 Rouen","coordonnees":{"latitude":49.4312,"longitude":1.0923},"capacite":14000,"actif":true},
+    {"id":20,"nom":"Plateforme Caen Calvados","type":"REGIONAL","adresse":"Avenue de la Côte de Nacre, 14000 Caen","coordonnees":{"latitude":49.1812,"longitude":-0.3623},"capacite":20000,"actif":true}
+  ],
+  "pageNumber": 1,
+  "pageSize": 10,
+  "totalElements": 20,
+  "totalPages": 2
+}

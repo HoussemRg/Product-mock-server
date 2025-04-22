@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "message": "Page loaded successfully",
+  "data": {
+    "content": [
+      {
+        "id": 11,
+        "nom": "Carrefour Market Rennes",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "RENNES-OUEST",
+        "meticode": "REN-MKT",
+        "adresse": "30 Boulevard de la Liberté, 35000 Rennes",
+        "surface": 3100,
+        "produitsLocaux": ["Traiteur", "Produits Bio"]
+      },
+      {
+        "id": 12,
+        "nom": "Carrefour Express Reims",
+        "typeGestion": "SATELLITE",
+        "entrepotReference": "REIMS-PLATEFORME",
+        "meticode": "RMS-EXP",
+        "adresse": "12 Rue de Mars, 51100 Reims",
+        "surface": 680
+      },
+      {
+        "id": 13,
+        "nom": "Carrefour Rouen",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "RWN-HYPER",
+        "adresse": "Avenue de Bretagne, 76100 Rouen",
+        "surface": 9200
+      },
+      {
+        "id": 14,
+        "nom": "Carrefour Market Grenoble",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "GRENOBLE-ALPES",
+        "meticode": "GRN-MKT",
+        "adresse": "15 Rue de Bonne, 38000 Grenoble",
+        "surface": 2750,
+        "produitsLocaux": ["Cave à vin", "Snacking"]
+      },
+      {
+        "id": 15,
+        "nom": "Carrefour City Toulon",
+        "typeGestion": "SATELLITE",
+        "entrepotReference": "TOULON-PORT",
+        "meticode": "TLN-CITY",
+        "adresse": "125 Quai George V, 76600 Le Havre",
+        "surface": 700
+      },
+      {
+        "id": 16,
+        "nom": "Carrefour Nancy",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "NCE-HYPER",
+        "adresse": "Route de Mirecourt, 54180 Houdemont",
+        "surface": 9700
+      },
+      {
+        "id": 17,
+        "nom": "Carrefour Market Angers",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "ANGERS-CENTRE",
+        "meticode": "ANG-MKT",
+        "adresse": "Rue du Grand Launay, 49000 Angers",
+        "surface": 3300,
+        "produitsLocaux": ["Pizza fraîche", "Sushi"]
+      },
+      {
+        "id": 18,
+        "nom": "Carrefour Express Clermont-Ferrand",
+        "typeGestion": "SATELLITE",
+        "entrepotReference": "CLERMONT-HUB",
+        "meticode": "CLRM-EXP",
+        "adresse": "Centre Jaude, 63000 Clermont-Ferrand",
+        "surface": 750
+      },
+      {
+        "id": 19,
+        "nom": "Carrefour Avignon",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "AVN-HYPER",
+        "adresse": "ZI Les Paluds, 13310 Marseille",
+        "surface": 10800
+      },
+      {
+        "id": 20,
+        "nom": "Carrefour Market Caen",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "CAEN-PLATEFORME",
+        "meticode": "CAEN-MKT",
+        "adresse": "45 Rue Saint-Jean, 14000 Caen",
+        "surface": 2950,
+        "produitsLocaux": ["Salade bar", "Jus pressé"]
+      }
+    ],
+    "pageNumber": 1,
+    "pageSize": 10,
+    "totalElements": 20,
+    "totalPages": 2
+  },
+  "errors": [],
+  "errorCode": 0,
+  "timestamp": 1713619200000,
+  "path": "/api/magasins"
+}

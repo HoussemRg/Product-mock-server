@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "Page loaded successfully",
+  "data": {
+    "content": [
+      {
+        "id": 1,
+        "nom": "Carrefour Paris Auteuil",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "PARIS-AUT",
+        "adresse": "4 Rue d'Auteuil, 75016 Paris",
+        "surface": 12500
+      },
+      {
+        "id": 2,
+        "nom": "Carrefour Market Lyon Part-Dieu",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "LYON-SUD",
+        "meticode": "LYON-PTD",
+        "adresse": "112 Rue du Dr Bouchut, 69003 Lyon",
+        "surface": 2800,
+        "produitsLocaux": ["Boulangerie", "Fruits/Légumes"]
+      },
+      {
+        "id": 3,
+        "nom": "Carrefour City Marseille",
+        "typeGestion": "SATELLITE",
+        "entrepotReference": "MARSEILLE-EST",
+        "meticode": "MRS-CITY",
+        "adresse": "41 Avenue du Prado, 13006 Marseille",
+        "surface": 850
+      },
+      {
+        "id": 4,
+        "nom": "Carrefour Bordeaux Lac",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "BDX-LAC",
+        "adresse": "Rue du Lac, 33300 Bordeaux",
+        "surface": 11000
+      },
+      {
+        "id": 5,
+        "nom": "Carrefour Market Toulouse",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "TOULOUSE-CENTRE",
+        "meticode": "TLS-MKT",
+        "adresse": "45 Rue Alsace Lorraine, 31000 Toulouse",
+        "surface": 3200,
+        "produitsLocaux": ["Poissonnerie", "Fromagerie"]
+      },
+      {
+        "id": 6,
+        "nom": "Carrefour Express Nice",
+        "typeGestion": "SATELLITE",
+        "entrepotReference": "NICE-PLATEFORME",
+        "meticode": "NICE-EXP",
+        "adresse": "15 Boulevard Général Louis Delfino, 06300 Nice",
+        "surface": 650
+      },
+      {
+        "id": 7,
+        "nom": "Carrefour Lille Sud",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "LILLE-SUD",
+        "adresse": "20 Boulevard Louis XIV, 59800 Lille",
+        "surface": 9800
+      },
+      {
+        "id": 8,
+        "nom": "Carrefour Market Nantes",
+        "typeGestion": "HYBRIDE",
+        "entrepotReference": "NANTES-ATLANTIQUE",
+        "meticode": "NTE-MKT",
+        "adresse": "12 Rue des Halles, 44000 Nantes",
+        "surface": 2900,
+        "produitsLocaux": ["Boucherie", "Pâtisserie"]
+      },
+      {
+        "id": 9,
+        "nom": "Carrefour City Strasbourg",
+        "typeGestion": "SATELLITE",
+        "entrepotReference": "STRASBOURG-ENTREPOT",
+        "meticode": "STR-CITY",
+        "adresse": "15 Place Kléber, 67000 Strasbourg",
+        "surface": 720
+      },
+      {
+        "id": 10,
+        "nom": "Carrefour Montpellier",
+        "typeGestion": "ADOSSE",
+        "entrepotReference": null,
+        "meticode": "MPL-HYPER",
+        "adresse": "2 Place de Lisbonne, 34000 Montpellier",
+        "surface": 10500
+      }
+    ],
+    "pageNumber": 0,
+    "pageSize": 10,
+    "totalElements": 20,
+    "totalPages": 2
+  },
+  "errors": [],
+  "errorCode": 0,
+  "timestamp": 1713619200000,
+  "path": "/api/magasins"
+}

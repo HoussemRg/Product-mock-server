@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "Entrepôts récupérés avec succès.",
+  "data": {
+    "content": [
+      {
+        "id": "LYON-SUD",
+        "nom": "Plateforme Lyon Sud",
+        "meticode": "ENT-LYON",
+        "magasinsDesservis": [2, 14],
+        "capacitePalettes": 35000,
+        "adresse": "12 Avenue des Frères Lumière, Lyon",
+        "surface": 12000
+      },
+      {
+        "id": "MARSEILLE-EST",
+        "nom": "Entrepôt Marseille Est",
+        "meticode": "ENT-MRS",
+        "magasinsDesservis": [3, 15],
+        "capacitePalettes": 28000,
+        "adresse": "18 Rue de la Joliette, Marseille",
+        "surface": 9500
+      },
+      {
+        "id": "TOULOUSE-CENTRE",
+        "nom": "Plateforme Toulouse Centre",
+        "meticode": "ENT-TLS",
+        "magasinsDesservis": [5],
+        "capacitePalettes": 27000,
+        "adresse": "5 Rue du Midi, Toulouse",
+        "surface": 9000
+      },
+      {
+        "id": "NICE-PLATEFORME",
+        "nom": "Plateforme Nice Côte d'Azur",
+        "meticode": "ENT-NCE",
+        "magasinsDesservis": [6],
+        "capacitePalettes": 24000,
+        "adresse": "22 Promenade des Anglais, Nice",
+        "surface": 8200
+      },
+      {
+        "id": "NANTES-ATLANTIQUE",
+        "nom": "Entrepôt Nantes Atlantique",
+        "meticode": "ENT-NTE",
+        "magasinsDesservis": [8, 17],
+        "capacitePalettes": 25000,
+        "adresse": "14 Rue de l’Atlantique, Nantes",
+        "surface": 8700
+      },
+      {
+        "id": "STRASBOURG-ENTREPOT",
+        "nom": "Entrepôt Strasbourg",
+        "meticode": "ENT-STR",
+        "magasinsDesservis": [9],
+        "capacitePalettes": 18000,
+        "adresse": "9 Rue de la Gare, Strasbourg",
+        "surface": 6800
+      },
+      {
+        "id": "RENNES-OUEST",
+        "nom": "Plateforme Rennes Ouest",
+        "meticode": "ENT-REN",
+        "magasinsDesservis": [11],
+        "capacitePalettes": 22000,
+        "adresse": "2 Allée des Tilleuls, Rennes",
+        "surface": 7500
+      },
+      {
+        "id": "REIMS-PLATEFORME",
+        "nom": "Plateforme Reims Champagne",
+        "meticode": "ENT-RMS",
+        "magasinsDesservis": [12],
+        "capacitePalettes": 21000,
+        "adresse": "33 Boulevard de la Paix, Reims",
+        "surface": 7300
+      },
+      {
+        "id": "GRENOBLE-ALPES",
+        "nom": "Entrepôt Grenoble Alpes",
+        "meticode": "ENT-GRN",
+        "magasinsDesservis": [14],
+        "capacitePalettes": 26000,
+        "adresse": "11 Rue des Alpes, Grenoble",
+        "surface": 8900
+      },
+      {
+        "id": "CLERMONT-HUB",
+        "nom": "Plateforme Clermont-Ferrand",
+        "meticode": "ENT-CLRM",
+        "magasinsDesservis": [18],
+        "capacitePalettes": 19000,
+        "adresse": "7 Rue de l’Industrie, Clermont-Ferrand",
+        "surface": 7000
+      }
+    ],
+    "pageNumber": 0,
+    "pageSize": 10,
+    "totalElements": 10,
+    "totalPages": 1
+  },
+  "errors": [],
+  "errorCode": 0,
+  "timestamp": 1713618000000,
+  "path": "/api/entrepots"
+}
